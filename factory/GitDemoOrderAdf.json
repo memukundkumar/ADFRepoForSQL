@@ -1,0 +1,9 @@
+{
+	"name": "GitDemoOrderAdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cae8f613-9e42-4424-aec0-2c0abc1d5b3d",
+		"tenantId": "2b2e15e4-5e17-4687-b69b-b26cf5d2e2be"
+	}
+}
